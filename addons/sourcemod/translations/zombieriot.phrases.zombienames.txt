@@ -706,14 +706,17 @@
 		"ru" 		"Ополченец"
 		"pt"		"Milícia"
 		"nl"		"Militie"
+		"chi"		"雇佣兵"
 	}
 	"Barracks Militia"
 	{
 		"en" 		"Militia"
+		"chi"		"雇佣兵"
 	}
 	"Barracks Militia Desc"
 	{
 		"en"		"Basic unit of basic melee needs."
+		"chi"		"基础近战单位。"
 	}
 	"Archer"
 	{
@@ -721,6 +724,7 @@
 		"ru" 		"Лучник"
 		"pt"		"Arqueiro"
 		"nl"		"Boogschutter"
+		"chi"		"弓箭手"
 	}
 	"Man-At-Arms"
 	{
@@ -728,6 +732,7 @@
 		"ru" 		"Гвардеец"
 		"pt"		"Homem de armas"
 		"nl"		"Krijgsman te paard"
+		"chi"		"武装士兵"
 	}
 	"Skirmisher"
 	{
@@ -735,6 +740,7 @@
 		"ru" 		"Разбойник"
 		"pt"		"Escaramuça"
 		"nl"		"Tirailleur"
+		"chi"		"前卫"
 	}
 	"Long Swordsman"
 	{
@@ -742,6 +748,7 @@
 		"ru" 		"Длинномечник"
 		"pt"		"Espadachim com Espada longa"
 		"nl"		"Lange Zwaardvechter"
+		"chi"		"长剑手"
 	}
 	"Twohanded Swordsman"
 	{
@@ -749,6 +756,7 @@
 		"ru" 		"Двуручный мечник"
 		"pt"		"Espadachim de 2 espadas"
 		"nl"		"Twee Handige Zwaardvechter"
+		"chi"		"双剑手"
 	}
 	"Crossbow Man"
 	{
@@ -756,6 +764,7 @@
 		"ru" 		"Арбалетчик"
 		"pt"		"Cara da Besta"
 		"nl"		"Kruisboogman"
+		"chi"		"弩手"
 	}
 	"Spearman"
 	{
@@ -763,6 +772,7 @@
 		"ru" 		"Копьеносец"
 		"pt"		"Lanceiro"
 		"nl"		"Speerman"
+		"chi"		"长矛手"
 	}
 	"Hand Cannoneer"
 	{
@@ -770,6 +780,7 @@
 		"ru" 		"Пушечник"
 		"pt"		"Canhoneiro de mão"
 		"nl"		"Hand Kanonnier"
+		"chi"		"手炮手"
 	}
 	"Elite Skirmisher"
 	{
@@ -777,6 +788,7 @@
 		"ru" 		"Элитный разбойник"
 		"pt"		"Escaramuça de Elite"
 		"nl"		"Elite Tirailleur"
+		"chi"		"精英前卫"
 	}
 	"Blitzkrieg"
 	{
@@ -784,6 +796,7 @@
 		"ru" 		"Блицкриг"
 		"pt"		"Blitzkrieg"
 		"nl"		"Blitzkrieg"
+		"chi"		"Blitzkrieg"
 	}
 	"Pikeman"
 	{
@@ -1632,39 +1645,46 @@
 	{
 		"en"		"Citizen"
 		"ru"		"Горожанин"
+		"chi"		"市民"
 	}
 	"Barracks Railgunner"
 	{
 		"en"		"Railgunner"
 		"ru"		"Рельсотроновик"
+		"chi"		"轨道炮手"
 	}
 	"Barracks Basic Mage"
 	{
 		"en"		"Basic Medic Mage"
 		"ru"		"Базовый маг-медик"
+		"chi"		"新手魔法师"
 	}
 	"Barracks Intermediate Mage"
 	{
 		"en"		"Intermediate Medic Mage"
 		"ru"		"Средний маг-медик"
+		"chi"		"入门魔法师"
 	}
 	"Barracks Ikunagae"
 	{
 		"en"		"Iku Nagae"
 		"de"		"Iku Nagae"
 		"ru"		"Ику Нагаэ"
+		"chi"		"永江衣玖"
 	}
 	"Barracks SchwertKrieg"
 	{
 		"en"		"Schwertkrieg"
 		"ru"		"Шверткриг"
 		"nl"		"Schwertkrieg"
+		"chi"		"Schwertkrieg"
 	}
 	"Barracks Donnerkrieg"
 	{
 		"en"		"Donnerkrieg"
 		"ru"		"Доннеркриг"
 		"nl"		"Donnerkrieg"
+		"chi"		"Donnerkrieg"
 	}
 	"Barracks Holy Knight"
 	{
@@ -1672,27 +1692,32 @@
 		"ru"		"Священный рыцарь"
 		"pt"		"Cavaleiro Santo"
 		"nl"		"Heilige Ridder"
+		"chi"		"圣骑士"
 	}
 	"Barracks Mecha Barrager"
 	{
 		"en"		"Mecha Soldier Barrager"
 		"de"		"Machine Soldat Spammer"
 		"ru"		"Меха-солдат-бомбардир"
+		"chi"		"机械弹幕轰炸机"
 	}
 	"Barracks Barrager"
 	{
 		"en"		"Barrager"
 		"ru"		"Бомбардир"
+		"chi"		"弹幕轰炸机"
 	}
 	"Barracks Berserker"
 	{
 		"en"		"Berserker"
 		"ru"		"Берсерк"
+		"chi"		"狂战士"
 	}
 	"Barracks Crossbow Medic"
 	{
 		"en"		"Medic Crossbowman"
 		"ru"		"Медик-арбалетчик"
+		"chi"		"医弩手"
 	}
 	"The Last Knight"
 	{
@@ -1731,16 +1756,19 @@
 	{
 		"en"		"Teutonic Knight"
 		"ru"		"Тевтонский рыцарь"
+		"chi"		"条顿骑士"
 	}
 	"Barracks Villager"
 	{
 		"en"		"Villager"
 		"ru"		"Житель"
+		"chi"		"村民"
 	}
 	"Barracks Building"
 	{
 		"en"		"Tower"
 		"ru"		"Башня"
+		"chi"		"塔"
 	}
 	"Tidelinked Bishop"
 	{
@@ -1755,6 +1783,7 @@
 	"Scientific Witchery"
 	{
 		"en"	"Scientific Witchery"
+		"chi"	"科学巫术"
 	}
 	"Ishar'mla, Heart of Corruption"
 	{
